@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programing\\STENN Task two\\STENN Task two\\STENN Task two.csproj",
+      "projectUniqueName": "C:\\Users\\rjabi\\source\\repos\\pokaefyrepositiryi\\STENN Task two\\STENN Task two\\STENN Task two.csproj",
       "projectName": "STENN Task two",
-      "projectPath": "C:\\Programing\\STENN Task two\\STENN Task two\\STENN Task two.csproj",
+      "projectPath": "C:\\Users\\rjabi\\source\\repos\\pokaefyrepositiryi\\STENN Task two\\STENN Task two\\STENN Task two.csproj",
       "packagesPath": "C:\\Users\\rjabi\\.nuget\\packages\\",
-      "outputPath": "C:\\Programing\\STENN Task two\\STENN Task two\\obj\\",
+      "outputPath": "C:\\Users\\rjabi\\source\\repos\\pokaefyrepositiryi\\STENN Task two\\STENN Task two\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rjabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
