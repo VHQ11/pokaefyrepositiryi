@@ -1,0 +1,16 @@
+C:\Programing\STENN Task three\STENN Task three\bin\Debug\net5.0\STENN Task three.exe
+C:\Programing\STENN Task three\STENN Task three\bin\Debug\net5.0\STENN Task three.deps.json
+C:\Programing\STENN Task three\STENN Task three\bin\Debug\net5.0\STENN Task three.runtimeconfig.json
+C:\Programing\STENN Task three\STENN Task three\bin\Debug\net5.0\STENN Task three.runtimeconfig.dev.json
+C:\Programing\STENN Task three\STENN Task three\bin\Debug\net5.0\STENN Task three.dll
+C:\Programing\STENN Task three\STENN Task three\bin\Debug\net5.0\STENN Task three.pdb
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.csproj.AssemblyReference.cache
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.AssemblyInfoInputs.cache
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.AssemblyInfo.cs
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.csproj.CoreCompileInputs.cache
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.dll
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\refint\STENN Task three.dll
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.pdb
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\STENN Task three.genruntimeconfig.cache
+C:\Programing\STENN Task three\STENN Task three\obj\Debug\net5.0\ref\STENN Task three.dll

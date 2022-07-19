@@ -1,0 +1,16 @@
+C:\Programing\STENN Task one\STENN Task one\bin\Debug\net5.0\STENN Task one.exe
+C:\Programing\STENN Task one\STENN Task one\bin\Debug\net5.0\STENN Task one.deps.json
+C:\Programing\STENN Task one\STENN Task one\bin\Debug\net5.0\STENN Task one.runtimeconfig.json
+C:\Programing\STENN Task one\STENN Task one\bin\Debug\net5.0\STENN Task one.runtimeconfig.dev.json
+C:\Programing\STENN Task one\STENN Task one\bin\Debug\net5.0\STENN Task one.dll
+C:\Programing\STENN Task one\STENN Task one\bin\Debug\net5.0\STENN Task one.pdb
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.csproj.AssemblyReference.cache
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.AssemblyInfoInputs.cache
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.AssemblyInfo.cs
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.csproj.CoreCompileInputs.cache
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.dll
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\refint\STENN Task one.dll
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.pdb
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\STENN Task one.genruntimeconfig.cache
+C:\Programing\STENN Task one\STENN Task one\obj\Debug\net5.0\ref\STENN Task one.dll

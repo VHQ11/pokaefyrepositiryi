@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STENN Task one", "STENN Task one\STENN Task one.csproj", "{D2FCC270-8D4F-47DB-82E6-6E17C71D8246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FCC270-8D4F-47DB-82E6-6E17C71D8246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FCC270-8D4F-47DB-82E6-6E17C71D8246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FCC270-8D4F-47DB-82E6-6E17C71D8246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FCC270-8D4F-47DB-82E6-6E17C71D8246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB1AEDE-412D-4778-9931-5B7E714484B1}
+	EndGlobalSection
+EndGlobal
