@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programing\\STENN Task three\\STENN Task three\\STENN Task three.csproj",
+      "projectUniqueName": "C:\\Users\\rjabi\\source\\repos\\pokaefyrepositiryi\\STENN Task three\\STENN Task three\\STENN Task three.csproj",
       "projectName": "STENN Task three",
-      "projectPath": "C:\\Programing\\STENN Task three\\STENN Task three\\STENN Task three.csproj",
+      "projectPath": "C:\\Users\\rjabi\\source\\repos\\pokaefyrepositiryi\\STENN Task three\\STENN Task three\\STENN Task three.csproj",
       "packagesPath": "C:\\Users\\rjabi\\.nuget\\packages\\",
-      "outputPath": "C:\\Programing\\STENN Task three\\STENN Task three\\obj\\",
+      "outputPath": "C:\\Users\\rjabi\\source\\repos\\pokaefyrepositiryi\\STENN Task three\\STENN Task three\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rjabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
